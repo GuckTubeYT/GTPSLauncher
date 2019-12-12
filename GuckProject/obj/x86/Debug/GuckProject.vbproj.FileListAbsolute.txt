@@ -1,0 +1,9 @@
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GuckProject.Form1.resources
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GuckProject.Resources.resources
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GuckProject.vbproj.GenerateResource.Cache
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\bin\Debug\GTPSLauncher.exe
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\bin\Debug\GTPSLauncher.pdb
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\bin\Debug\GTPSLauncher.xml
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GTPSLauncher.exe
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GTPSLauncher.xml
+C:\Users\GuckTubeYT\Desktop\My Project\GuckProject\GuckProject\obj\x86\Debug\GTPSLauncher.pdb
