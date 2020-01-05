@@ -43,8 +43,8 @@ Public Class Form1
         file.WriteLine("#      127.0.0.1       localhost ")
         file.WriteLine("#      ::1             localhost ")
         'You Can Change IP VPS
-        file.WriteLine("YourIPVPS growtopia1.com")
-        file.WriteLine("YourIPVPS growtopia2.com")
+        file.WriteLine("YourGTPSIP growtopia1.com")
+        file.WriteLine("YourGTPSIP growtopia2.com")
         file.Close()
 
     End Sub
