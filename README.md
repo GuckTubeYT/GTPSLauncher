@@ -17,29 +17,29 @@ GTPSLauncher Need
 
 ## How to use Server UP/DOWN Checker
 
-1. you need to install XAMPP to your VPS
+1. You need to install XAMPP to your VPS
 2. Checklist MySQL and Apache
-3. turn on MySQL and Apache
-4. goto XAMPP Folder
-5. goto htdocs folder
-6. create name folder "status" (Without ")
-7. create name file "server.txt" (Without ")
-8. open server.txt and make text
+3. Turn on MySQL and Apache
+4. Goto XAMPP Folder
+5. Goto htdocs folder
+6. Create name folder "status" (Without ")
+7. Create name file "server.txt" (Without ")
+8. Open server.txt and make text
 - Example
 ```
 GTKZ Server is UP
 ```
 9. Save server.txt
-10. edit this
+10. Edit this
 ```
 My.Computer.Network.DownloadFile("http://IPVPS/PATH/NAME.TXT"
 ```
-to this
+To this
 ```
 My.Computer.Network.DownloadFile("http://IPGTPS/status/server.txt"
 ```
 
-and then done
+And then done
 ## Note
 If you find This:
 ```
