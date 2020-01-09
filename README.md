@@ -45,4 +45,4 @@ If you find This:
 ```
 My.Computer.Network.DownloadFile("http://IPVPS/PATH/NAME.TXT", "C:\Server\Changelog.txt")
 ```
-Please dont remove http:// or https:// if not, this application will not running properly
+Please dont remove http:// or https://, if you remove http:// or https://, this application will not running properly
